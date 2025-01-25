@@ -141,7 +141,7 @@ function main_menu() {
         display_service_status                                 
 		display_service_statuss
  echo -e "\e[93m╔════════════════════════════════════════════════════════════════╗\e[0m"
-        echo -e   "\e[91m      🌐 \e[92mJoin Opiran Telegram \e[34m@https://t.me/OPIranClub\e[0m \e[91m🌐\e[0m"
+        echo -e   "insta: Samants67      🌐سامان تقوی"
         echo -e "\e[93m╠════════════════════════════════════════════════════════════════╣\e[0m"  
         echo -e "1. \e[96mInstallation-[Frp-Udp2raw]\e[0m"
 		echo -e "2. \e[92mPrivate IP\e[0m"
